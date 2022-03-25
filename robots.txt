@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /  
+
+sitemap: http://www.dotlogistics.co.in/sitemap.xml
